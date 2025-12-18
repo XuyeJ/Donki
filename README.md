@@ -4,7 +4,11 @@
 
 # Run and deploy your AI Studio app
 
+This app is created for Donki, the lovely cat who is gonna stay with me during Christmas (2025) and New Year (2026). 
+It can help me to remember how should I take care of him, and also share the daily infomaion with the owners. 
+
 This contains everything you need to run your app locally.
+
 
 View your app in AI Studio: https://ai.studio/apps/drive/1BVhCNY8w6awhcXPPNabq4mw47SCMAlUs
 
